@@ -104,3 +104,4 @@
 ## S/MIME message
 *.smime
 *.vsix
+graphify-out/cache/last_query_stamp
