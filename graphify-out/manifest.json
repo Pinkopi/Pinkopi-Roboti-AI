@@ -1,8 +1,8 @@
 {
   ".claude/settings.json": {
-    "mtime": 1795214754.9000623,
-    "seen": 1795214766.864247,
-    "ast_hash": "acd227e338c191e7f4de125904d4db81",
+    "mtime": 1795214828.0325725,
+    "seen": 1795214832.6247706,
+    "ast_hash": "8a07cccff64aadbdda3c20e562906394",
     "semantic_hash": ""
   },
   ".eslintrc.js": {
@@ -5640,9 +5640,9 @@
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1795214754.8998442,
-    "seen": 1795214766.8649995,
-    "ast_hash": "dfe5fa7939121e96d61b54077cc9ab84",
+    "mtime": 1795214828.034624,
+    "seen": 1795214832.6256564,
+    "ast_hash": "991d63ef553aff60dc987247a2117712",
     "semantic_hash": ""
   },
   "CODE_OF_CONDUCT.md": {
@@ -7443,6 +7443,12 @@
     "mtime": 1795214644.9906178,
     "seen": 1795214766.8652134,
     "ast_hash": "e18dbb18ed380f8de11eaa7b7b5fff9e",
+    "semantic_hash": ""
+  },
+  ".claude/graphify-ensure.sh": {
+    "mtime": 1795214828.0141118,
+    "seen": 1795214832.6247623,
+    "ast_hash": "8fa683937136c0f74002423a61796819",
     "semantic_hash": ""
   },
   "pnpm-lock.yaml": {
